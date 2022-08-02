@@ -1,0 +1,3 @@
+.DS_Store
+src/tests/unit.check
+src/libdecimal.a
